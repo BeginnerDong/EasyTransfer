@@ -1,0 +1,22 @@
+	
+	.editLine .item{border-bottom: 0;padding: 0 0 40rpx 0;line-height: 60rpx;}
+	.editLine .item .ll{color: #666; text-align: right;box-sizing: border-box; padding-right: 16rpx;}
+	.editLine .item .rr{font-size: 26rpx;}
+	.editLine .item input{height: 60rpx;line-height: 56rpx;border: 1px solid #eee;box-sizing: border-box;width: 100%;box-sizing: border-box;padding: 0 20rpx;font-size: 26rpx;color: #222;}
+	.editLine .item .placeholder{font-size: 24rpx;}
+	.editLine .item textarea{height: 320rpx;font-size: 26rpx; color: #222;}
+	
+	.upImg{width: 150rpx;height: 150rpx;overflow: hidden;background: #F5F5F5;margin-right: 20rpx;}
+	.upImg image{width: 100%;height: 100%;display: block;}
+	
+	.selt-R .adrs{width: 150rpx;height: 60rpx;line-height: 56rpx;border: 1px solid #eee;box-sizing: border-box;padding: 0 10rpx;margin-right: 20rpx;}
+	.selt-R .adrs:last-child{margin-right: 0;}
+	.selt-R .adrs .text{width: 80%;text-align: center;font-size: 24rpx;}
+	.selt-R .adrs .arrIcon{width: 18rpx;height: 12rpx;display: block;}
+	
+	.canDoList{flex-wrap: wrap;align-items: flex-start;}
+	.canDoList .setIcon{width: 20rpx;height: 20rpx;margin:6rpx 10rpx 0 0;display: block;}
+	.canDoList .lis{width: 150rpx;padding:14rpx 20rpx 14rpx 0;line-height: 32rpx;align-items: flex-start;}
+	.canDoList .lis:nth-of-type(3n){margin-right: 0;}
+	.canDoList .lis .tit{width: 110rpx;text-align: center;}
+

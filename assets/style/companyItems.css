@@ -1,0 +1,13 @@
+
+
+.companyItems .item{background: #fff;border-radius: 10rpx;box-shadow: 0 0 10rpx rgba(119, 119, 119, 0.1);padding:30rpx 20rpx;}
+.companyItems .item .text{margin-top: 20rpx;}
+.FX-Icon{position: absolute; top: -10rpx; right: 20rpx;width: 59rpx; height: 56rpx;}
+.FX-Icon image{width: 100%;height: 100%;display: block;}
+.MYiIcon{width: 100rpx;height: 100rpx;border-radius: 50%;color: #ff3c55;border:1px dashed #ff3c55;position: absolute; bottom: 70rpx;right: 50rpx;}
+
+.wantButs .ll{width:65%;}
+.wantButs .rr{width:35%;}
+.wantButs .rr .phoneIcon{width:46rpx; height: 50rpx;}
+.wantButs .rr .phoneNum{color: #ff3c55; font-size: 28rpx;margin-top: 10rpx;}
+

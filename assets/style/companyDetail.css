@@ -1,0 +1,13 @@
+
+.compayTit .icon{width: 59rpx;height: 56rpx;display: block; margin-right:10rpx;}
+.compayTit .icon image{width: 100%;height: 100%; display: block;}
+.compayTit .text{width: 90%;}
+.shareIcon{width: 36rpx;height: 36rpx;}
+
+.compayUser .photo{width: 80rpx;height: 80rpx; border-radius: 50%;display: block; margin-right: 16rpx;}
+.compayUser .fabuName{width: 340rpx;}
+.TitIcon{width: 30rpx;height: 30rpx;display: block; margin-right: 20rpx;}
+
+.msgInfor .item{margin-top: 16rpx;}
+.fx-subBtn{position: fixed;left: 0;right: 0;bottom: 0;}
+
